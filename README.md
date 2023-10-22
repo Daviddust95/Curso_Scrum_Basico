@@ -1,4 +1,4 @@
-# Curso_Scrum_Basico
+# Curso Scrum Basico
 <justify>
 Anotações que fiz durante a realização do curso de Scrum básico, na plataforma da Udemy.
 </justify>
