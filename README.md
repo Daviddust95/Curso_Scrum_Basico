@@ -1,4 +1,6 @@
 # Curso Scrum Basico
+![Curso Concluído](https://img.shields.io/badge/Curso-Conclu%C3%ADdo-brightgreen.svg)
+
 <justify>
 Anotações que fiz durante a realização do curso de Scrum básico, na plataforma da Udemy.
 </justify>
